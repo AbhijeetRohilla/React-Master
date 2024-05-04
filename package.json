@@ -1,0 +1,19 @@
+{
+  "name": "js_tutorial",
+  "version": "1.0.0",
+  "description": "This is just basics of Js",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhijeetRohilla/Javascript-Master.git"
+  },
+  "author": "Abhijeet Rohilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhijeetRohilla/Javascript-Master/issues"
+  },
+  "homepage": "https://github.com/AbhijeetRohilla/Javascript-Master#readme"
+}
