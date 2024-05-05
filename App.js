@@ -1,16 +1,30 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-const parent= React.createElement("div",{id:"parent"},
-    [React.createElement("h1",{id:"heading1"},"I am H1 tag...."),
-    React.createElement("h2",{id:"heading2"},"I am H2 tag")
-],
+const Heading=()=>{
+    return(
+        <h1>I am Any heading....</h1>
+    )
+}
 
-React.createElement("h1",{id:"heading2.1"},"I am H1 Hello!!!!! tag...."),
-React.createElement("h2",{id:"heading2.2"},"I am H2 tag"))
+const Func=()=>{
+    return(
+    <>
+        <Heading/>
+        <div>I am function only :( </div>
+    </>)
+}
+const App=()=>{
+    
+    return(
+    <>
+    <Func/>
+<div>I am Main App!! :)</div>
 
+    </>
 
-
-const myRoot= ReactDOM.createRoot(document.getElementById('root'));
-console.log(parent)
-myRoot.render(parent);
+    )
+    
+}
+const root= ReactDOM.createRoot(document.getElementById('root'))
+    root.render(<App/>)
