@@ -1,0 +1,16 @@
+.header-parent > img {
+  width: 100px;
+}
+.header-parent {
+  justify-content: space-between;
+  display: flex;
+  border: 1px black solid;
+}
+.header-parent > ul {
+  display: flex;
+  list-style: none;
+}
+.header-parent > ul > li {
+    padding: 10px;
+    margin: 10px;
+}

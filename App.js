@@ -1,30 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Header from './components/header/header';
+import RestCard from './components/body/restrauntCard';
 
-const Heading=()=>{
-    return(
-        <h1>I am Any heading....</h1>
-    )
-}
-
-const Func=()=>{
-    return(
-    <>
-        <Heading/>
-        <div>I am function only :( </div>
-    </>)
-}
 const App=()=>{
     
     return(
     <>
-    <Func/>
-<div>I am Main App!! :)</div>
-
+    <Header/>
+    <RestCard/>
     </>
-
-    )
-    
+    ) 
 }
 const root= ReactDOM.createRoot(document.getElementById('root'))
     root.render(<App/>)
