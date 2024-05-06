@@ -1,10 +1,21 @@
+.restraunt-card-container {
+    width:200px;
+    height:300px;
+    border:1px black solid;
+    padding: 10px;
+}
 .restraunt-card-container .rest-card{
-    border: 1px black solid;
-    width: 200px;
-    height:300px ;
+
     margin-top:10px;
     padding: 10px;
 }
 .restraunt-card-container > input{
     margin-top: 10px;
+}
+.restraunt-card-container >img{
+    width: 95%;
+    height:50%;
+}
+.parent-card{
+    display: flex;
 }
