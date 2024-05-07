@@ -10,12 +10,8 @@ const App=()=>{
     <>
     <Header/>
     <div className='restCard'>
-    <RestCard/>
-    <RestCard/>
-    <RestCard/>
-    <RestCard/>
-    <RestCard/>
-    <RestCard/>
+    <RestCard dish={'North Indian, South Indian'} res={'Big Bowl'} str={'4.1'} dist={25}/>
+    <RestCard dish={'Non-Veg, Crispy Chicken'} res={'KFC'} str={'4.2'} dist={34}/>
     </div>
     </>
     ) 
