@@ -1,0 +1,971 @@
+{
+  "cards":[
+    {
+      "info": {
+        "id": "317724",
+        "name": "Grover Mithaivala",
+        "cloudinaryImageId": "bba088ec8a7e007024efc7d9cdabd37c",
+        "locality": "1St Block",
+        "areaName": "West Patel Nagar",
+        "costForTwo": "₹250 for two",
+        "cuisines": [
+          "Sweets",
+          "Street Food",
+          "Snacks",
+          "Desserts"
+        ],
+        "avgRating": 4.5,
+        "veg": true,
+        "parentId": "3749",
+        "avgRatingString": "4.5",
+        "totalRatingsString": "1K+",
+        "sla": {
+          "deliveryTime": 16,
+          "lastMileTravel": 0.4,
+          "serviceability": "SERVICEABLE",
+          "slaString": "15-20 mins",
+          "lastMileTravelString": "0.4 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-07 22:00:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "v1695133679/badges/Pure_Veg111.png",
+              "description": "pureveg"
+            }
+          ]
+        },
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "pureveg",
+                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+      },
+      "analytics": {},
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/grover-mithaivala-1st-block-west-patel-nagar-delhi-317724",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "94172",
+        "name": "Arya Bhavan",
+        "cloudinaryImageId": "f47a42ca1e24726e55500b00f22daa81",
+        "locality": "Karol Bagh",
+        "areaName": "Karol Bagh",
+        "costForTwo": "₹300 for two",
+        "cuisines": [
+          "South Indian",
+          "Beverages",
+          "Thalis",
+          "Ice Cream",
+          "Desserts"
+        ],
+        "avgRating": 4.2,
+        "veg": true,
+        "parentId": "7266",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "5K+",
+        "sla": {
+          "deliveryTime": 30,
+          "lastMileTravel": 4,
+          "serviceability": "SERVICEABLE",
+          "slaString": "25-30 mins",
+          "lastMileTravelString": "4.0 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-07 22:30:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "v1695133679/badges/Pure_Veg111.png",
+              "description": "pureveg"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "pureveg",
+                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "₹125 OFF",
+          "subHeader": "ABOVE ₹199",
+          "discountTag": "FLAT DEAL"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+      },
+      "analytics": {},
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/arya-bhavan-karol-bagh-delhi-94172",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "444609",
+        "name": "Nagpal Chole Bhature",
+        "cloudinaryImageId": "lllc4mq4vlwcxanrd8q8",
+        "locality": "Shankar Road",
+        "areaName": "Rajinder Nagar",
+        "costForTwo": "₹250 for two",
+        "cuisines": [
+          "North Indian"
+        ],
+        "avgRating": 3.8,
+        "veg": true,
+        "parentId": "143209",
+        "avgRatingString": "3.8",
+        "totalRatingsString": "100+",
+        "sla": {
+          "deliveryTime": 36,
+          "lastMileTravel": 3,
+          "serviceability": "SERVICEABLE",
+          "slaString": "35-40 mins",
+          "lastMileTravelString": "3.0 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-07 16:15:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "v1695133679/badges/Pure_Veg111.png",
+              "description": "pureveg"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "pureveg",
+                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "20% OFF",
+          "subHeader": "UPTO ₹50"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+      },
+      "analytics": {},
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/nagpal-chole-bhature-shankar-road-rajinder-nagar-delhi-444609",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "258199",
+        "name": "Great Indian Khichdi by EatFit",
+        "cloudinaryImageId": "6e44fd7f1e5cd9967edfe47c10247671",
+        "locality": "Pyarelal Road",
+        "areaName": "Karol Bagh",
+        "costForTwo": "₹200 for two",
+        "cuisines": [
+          "Home Food",
+          "Indian",
+          "North Indian",
+          "Healthy Food",
+          "Snacks",
+          "Desserts",
+          "Rajasthani",
+          "South Indian",
+          "Maharashtrian",
+          "Sweets"
+        ],
+        "avgRating": 4.4,
+        "veg": true,
+        "parentId": "319582",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "5K+",
+        "sla": {
+          "deliveryTime": 30,
+          "lastMileTravel": 3,
+          "serviceability": "SERVICEABLE",
+          "slaString": "30-35 mins",
+          "lastMileTravelString": "3.0 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-08 01:00:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "v1695133679/badges/Pure_Veg111.png",
+              "description": "pureveg"
+            }
+          ],
+          "textExtendedBadges": [
+            {
+              "iconId": "guiltfree/GF_Logo_android_3x",
+              "shortDescription": "brand",
+              "fontColor": "#7E808C"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "pureveg",
+                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {},
+            "textExtendedBadges": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "",
+                    "fontColor": "#7E808C",
+                    "iconId": "guiltfree/GF_Logo_android_3x",
+                    "shortDescription": "brand"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "60% OFF",
+          "subHeader": "UPTO ₹120"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+      },
+      "analytics": {},
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/great-indian-khichdi-by-eatfit-pyarelal-road-karol-bagh-delhi-258199",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "661082",
+        "name": "HRX Beverages - Juices, Coffee & Kombucha",
+        "cloudinaryImageId": "3aed4be19affeb4bba136c953ba7283c",
+        "locality": "PAYARA LAL ROAD",
+        "areaName": "KAROL BAGH",
+        "costForTwo": "₹270 for two",
+        "cuisines": [
+          "Beverages",
+          "Juices",
+          "Healthy Food",
+          "Desserts"
+        ],
+        "avgRating": 4.5,
+        "veg": true,
+        "parentId": "509799",
+        "avgRatingString": "4.5",
+        "totalRatingsString": "5",
+        "sla": {
+          "deliveryTime": 36,
+          "lastMileTravel": 3,
+          "serviceability": "SERVICEABLE",
+          "slaString": "35-40 mins",
+          "lastMileTravelString": "3.0 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-08 01:00:00",
+          "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "50% OFF",
+          "subHeader": "UPTO ₹100"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+      },
+      "analytics": {},
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/hrx-beverages-juices-coffee-and-kombucha-payara-lal-road-karol-bagh-delhi-661082",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "12034",
+        "name": "CL Corner",
+        "cloudinaryImageId": "ibubo4whatalvbowetis",
+        "locality": "Kirti Nagar",
+        "areaName": "Moti Nagar",
+        "costForTwo": "₹200 for two",
+        "cuisines": [
+          "Snacks",
+          "Indian"
+        ],
+        "avgRating": 4.5,
+        "veg": true,
+        "parentId": "16213",
+        "avgRatingString": "4.5",
+        "totalRatingsString": "10K+",
+        "sla": {
+          "deliveryTime": 59,
+          "lastMileTravel": 3,
+          "serviceability": "SERVICEABLE",
+          "slaString": "55-60 mins",
+          "lastMileTravelString": "3.0 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-07 17:00:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "v1695133679/badges/Pure_Veg111.png",
+              "description": "pureveg"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "pureveg",
+                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "30% OFF",
+          "subHeader": "UPTO ₹75"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+      },
+      "analytics": {},
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/cl-corner-kirti-nagar-moti-nagar-delhi-12034",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "240992",
+        "name": "Amritsari Kulcha Factory",
+        "cloudinaryImageId": "brxto6jfkbkfprefp5ht",
+        "locality": "PUNJABI BAGH",
+        "areaName": "PUNJABI BAGH",
+        "costForTwo": "₹250 for two",
+        "cuisines": [
+          "Punjabi"
+        ],
+        "avgRating": 4.3,
+        "veg": true,
+        "parentId": "12013",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "1K+",
+        "sla": {
+          "deliveryTime": 55,
+          "lastMileTravel": 2.7,
+          "serviceability": "SERVICEABLE",
+          "slaString": "55-60 mins",
+          "lastMileTravelString": "2.7 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-08 04:00:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "v1695133679/badges/Pure_Veg111.png",
+              "description": "pureveg"
+            }
+          ],
+          "textExtendedBadges": [
+            {
+              "iconId": "guiltfree/GF_Logo_android_3x",
+              "shortDescription": "options available",
+              "fontColor": "#7E808C"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "pureveg",
+                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {},
+            "textExtendedBadges": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "",
+                    "fontColor": "#7E808C",
+                    "iconId": "guiltfree/GF_Logo_android_3x",
+                    "shortDescription": "options available"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "₹125 OFF",
+          "subHeader": "ABOVE ₹299",
+          "discountTag": "FLAT DEAL"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+      },
+      "analytics": {},
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/amritsari-kulcha-factory-punjabi-bagh-delhi-240992",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "44975",
+        "name": "Bhature Walas",
+        "cloudinaryImageId": "b332b16f71c9fbd81ae93d8b51c1a21e",
+        "locality": "Rama Road",
+        "areaName": "Rama Road",
+        "costForTwo": "₹300 for two",
+        "cuisines": [
+          "Street Food",
+          "North Indian"
+        ],
+        "avgRating": 4.3,
+        "veg": true,
+        "parentId": "471139",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "1K+",
+        "sla": {
+          "deliveryTime": 72,
+          "lastMileTravel": 2.7,
+          "serviceability": "SERVICEABLE",
+          "slaString": "70-75 mins",
+          "lastMileTravelString": "2.7 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-07 17:00:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "v1695133679/badges/Pure_Veg111.png",
+              "description": "pureveg"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "pureveg",
+                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "₹125 OFF",
+          "subHeader": "ABOVE ₹299",
+          "discountTag": "FLAT DEAL"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+      },
+      "analytics": {},
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/bhature-walas-rama-road-delhi-44975",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "44972",
+        "name": "Om di Hatti(Kamla Nagar)",
+        "cloudinaryImageId": "ypoamjz9lkaxlsf6075j",
+        "locality": "Shakti Nagar",
+        "areaName": "Kamla Nagar",
+        "costForTwo": "₹150 for two",
+        "cuisines": [
+          "Fast Food",
+          "Snacks"
+        ],
+        "avgRating": 4.2,
+        "veg": true,
+        "parentId": "22243",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "10K+",
+        "sla": {
+          "deliveryTime": 38,
+          "lastMileTravel": 5.8,
+          "serviceability": "SERVICEABLE",
+          "slaString": "35-40 mins",
+          "lastMileTravelString": "5.8 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-07 20:30:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "v1695133679/badges/Pure_Veg111.png",
+              "description": "pureveg"
+            }
+          ]
+        },
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "pureveg",
+                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+      },
+      "analytics": {},
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/om-di-hatti-kamla-nagar-shakti-nagar-kamla-nagar-delhi-44972",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "330141",
+        "name": "Love Poori Wala",
+        "cloudinaryImageId": "ccspmmtwsj5gmeoxsicn",
+        "locality": "Lala Jagan Nath Marg",
+        "areaName": "Kamla Nagar",
+        "costForTwo": "₹100 for two",
+        "cuisines": [
+          "North Indian",
+          "Snacks",
+          "Desserts"
+        ],
+        "avgRating": 4.1,
+        "veg": true,
+        "parentId": "13819",
+        "avgRatingString": "4.1",
+        "totalRatingsString": "1K+",
+        "sla": {
+          "deliveryTime": 38,
+          "lastMileTravel": 6.9,
+          "serviceability": "SERVICEABLE",
+          "slaString": "35-40 mins",
+          "lastMileTravelString": "6.9 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-07 22:30:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "v1695133679/badges/Pure_Veg111.png",
+              "description": "pureveg"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "pureveg",
+                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "20% OFF",
+          "subHeader": "UPTO ₹50"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+      },
+      "analytics": {},
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/love-poori-wala-lala-jagan-nath-marg-kamla-nagar-delhi-330141",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "28457",
+        "name": "Nagpal Chholey Bhature",
+        "cloudinaryImageId": "25ea2b72cc3b8f515a38c02f502f0e45",
+        "locality": "1St Phase",
+        "areaName": "Ashok Vihar",
+        "costForTwo": "₹200 for two",
+        "cuisines": [
+          "Street Food",
+          "South Indian"
+        ],
+        "avgRating": 3.7,
+        "veg": true,
+        "parentId": "3637",
+        "avgRatingString": "3.7",
+        "totalRatingsString": "10K+",
+        "sla": {
+          "deliveryTime": 45,
+          "lastMileTravel": 6.1,
+          "serviceability": "SERVICEABLE",
+          "slaString": "40-45 mins",
+          "lastMileTravelString": "6.1 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-07 23:30:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "v1695133679/badges/Pure_Veg111.png",
+              "description": "pureveg"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "pureveg",
+                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "₹125 OFF",
+          "subHeader": "ABOVE ₹249",
+          "discountTag": "FLAT DEAL"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+      },
+      "analytics": {},
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/nagpal-chholey-bhature-1st-phase-ashok-vihar-delhi-28457",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    }
+  ]
+}

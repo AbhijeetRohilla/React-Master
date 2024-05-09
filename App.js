@@ -3,15 +3,23 @@ import ReactDOM from 'react-dom';
 import Header from './components/header/header';
 import RestCard from './components/body/restrauntCard';
 import './app.css'
+import data from './output.json';
+
 
 const App=()=>{
+    let resData=[]
+     resData=data?.cards;
+    console.log(resData)
     
     return(
     <>
     <Header/>
     <div className='restCard'>
-    <RestCard dish={'North Indian, South Indian'} res={'Big Bowl'} str={'4.1'} dist={25}/>
-    <RestCard dish={'Non-Veg, Crispy Chicken'} res={'KFC'} str={'4.2'} dist={34}/>
+    { 
+        resData.map((item)=>{
+            return <RestCard resData={item}/>
+        })
+    }
     </div>
     </>
     ) 
