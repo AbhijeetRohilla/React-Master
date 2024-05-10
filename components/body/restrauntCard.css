@@ -1,13 +1,16 @@
 .restraunt-card-container {
     width:200px;
-    height:300px;
-    border:1px black solid;
     padding: 10px;
 }
 .restraunt-card-container .rest-card{
 
     margin-top:10px;
     padding: 10px;
+
+}
+.parent-card :hover{
+    border: 1px solid black;
+
 }
 .restraunt-card-container > input{
     margin-top: 10px;
