@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Header from './components/header/header';
-import RestCard from './components/body/restrauntCard';
+import Header from './src/components/header/header';
+import RestCard from './src/components/body/restrauntCard';
 import './app.css'
-import data from './output.json';
+import data from './src/components/utils/output.json'
 
 
 const App=()=>{

@@ -1,6 +1,8 @@
 .restraunt-card-container {
     width:200px;
     padding: 10px;
+    background-color: rgb(240, 225, 225);
+    margin:10px;
 }
 .restraunt-card-container .rest-card{
 
