@@ -2,7 +2,6 @@ import React from 'react';
 import './restrauntCard.css';
 import { IMG_URL } from '../utils/common';
  const RestCard=({resData})=>{
-    console.log(resData)
     const cuisine=resData?.info.cuisines.join(', ')
     
     

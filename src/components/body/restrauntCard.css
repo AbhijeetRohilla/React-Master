@@ -24,3 +24,20 @@
 .parent-card{
     display: flex;
 }
+
+
+
+
+
+/* Shimmer Css */
+.rest-shimmer{
+    height: 400px;
+    width: 200px;
+    background-color:rgb(240, 225, 225) ;
+    margin: 10px;
+}
+.shimmer-container{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+}
