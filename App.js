@@ -15,6 +15,7 @@ import ErrorComp from "./src/components/body/error";
 import Contact from "./src/components/body/contact";
 import RestrauntMenu from "./src/components/body/restrauntMenu";
 import Body from "./src/components/body/body";
+import UserClass from "./src/components/body/userClass";
 
 
 const App = () => {
@@ -37,6 +38,9 @@ const appRouter=createBrowserRouter([
       {
         path:'/about',
         element:<About/>
+      },
+      {path:'/about/user',
+        element:<UserClass name={"Abhijeet"}/>
       },
       {
         path:'/contact',
