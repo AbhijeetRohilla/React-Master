@@ -42,16 +42,17 @@ const Body=()=>{
             <RestShimmer/>
         ):
         <>
-          <div className="sort-by-button">
-            <button onClick={handleSort}>Sort By</button>
-          </div>
-          <br></br>
-          <div>
-            <input
+          <div className="flex">
+          
+            <button className="px-4 bg-gray-500 rounded-lg m-4 text-white" onClick={handleSort}>Sort By ↑↓ </button>
+            <div className="ml-24 items-center mt-6"><input className="px-4 border-solid border-black border-[1px] rounded-md "
               type="search"
               onChange={(e) => setSearchData(e.target.value)}
-            ></input>
-            <button onClick={handleSearch}>Search</button>
+            ></input></div>
+            <button onClick={handleSearch} className="rounded-3xl bg-blue-300 m-4 p-2">Search</button>
+          </div>
+          <div>
+            
           </div>
           <div className="restCard">
             {resData.map((item) => {

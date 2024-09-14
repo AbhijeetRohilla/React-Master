@@ -1,4 +1,4 @@
-import React from "react";
+import React,{lazy,Suspense} from "react";
 import ReactDOM from "react-dom/client";
 import Header from "./src/components/header/header";
 import RestCard from "./src/components/body/restrauntCard";
@@ -9,16 +9,19 @@ import { REAL_FOOD_API } from "./src/components/utils/common";
 import Spinner from "react-spinner-material";
 import RestShimmer from "./src/components/body/restrauntShimmer";
 import { createBrowserRouter, Outlet, RouterProvider } from "react-router-dom";
-import AppRoutes from "./src/components/utils/routes";
 import About from "./src/components/body/about";
 import ErrorComp from "./src/components/body/error";
 import Contact from "./src/components/body/contact";
 import RestrauntMenu from "./src/components/body/restrauntMenu";
 import Body from "./src/components/body/body";
 import UserClass from "./src/components/body/userClass";
+// import Grocery from "./src/components/body/grocery";
 
 
+
+const Grocery=lazy(()=>import("./src/components/body/grocery"))
 const App = () => {
+  
   
   return (
     <>
@@ -38,6 +41,11 @@ const appRouter=createBrowserRouter([
       {
         path:'/about',
         element:<About/>
+      },
+      {path:'/grocery',
+        element:<Suspense fallback={<div>Loading....</div>}>
+        <Grocery/>
+        </Suspense>
       },
       {path:'/about/user',
         element:<UserClass name={"Abhijeet"}/>

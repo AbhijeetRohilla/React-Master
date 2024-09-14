@@ -1,25 +1,23 @@
 import React from "react";
-import './restrauntCard.css'
-
 const RestShimmer=()=>{
 
     return(
         <>
         <button ></button>
-        <div className="shimmer-container">
-                <div className="rest-shimmer">
+        <div className="flex">
+                <div className="flex-wrap w-48 m-4 p-4 bg-yellow-100 h-1/2">
         </div>
-        <div className="rest-shimmer">
+        <div className="flex-wrap w-48 m-4 p-4 bg-yellow-100 h-1/2">
         </div>
-        <div className="rest-shimmer">
+        <div className="flex-wrap w-48 m-4 p-4 bg-yellow-100 h-1/2">
         </div>
-        <div className="rest-shimmer">
+        <div className="flex-wrap w-48 m-4 p-4 bg-yellow-100 h-1/2">
         </div>
-        <div className="rest-shimmer">
+        <div className="flex-wrap w-48 m-4 p-4 bg-yellow-100 h-1/2">
         </div>
-        <div className="rest-shimmer">
+        <div className="flex-wrap w-48 m-4 p-4 bg-yellow-100 h-1/2">
         </div>
-        <div className="rest-shimmer">
+        <div className="flex-wrap w-48 m-4 p-4 bg-yellow-100 h-1/2">
         </div>
         </div>
         </>

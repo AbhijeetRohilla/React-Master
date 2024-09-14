@@ -2,22 +2,14 @@
 import React,{useEffect, useState} from 'react';
 import { useParams } from 'react-router-dom';
 import { RESTRAUNT_API } from '../utils/common';
+import useRestaraunt from '../utils/useRestaraunt';
 
 function RestrauntMenu() {
-  const [resData,setResData]=useState({});
   const [data,setData]=useState('');
   const [arr,setArr]=useState([]);
   const { restId }= useParams()
-  console.log(useParams(),"Abhi")
-  useEffect(()=>{
-    fetchData();
-  },[])
-  const fetchData=async()=>{
-    const data= await fetch(RESTRAUNT_API+restId);
-    const json= await (data.json());
-    setResData(json);
-   
-  }
+  
+  const resData=useRestaraunt(restId);
   useEffect(()=>{
     setArr(resData?.data?.cards[4]?.groupedCard.cardGroupMap.REGULAR?.cards)
     setData(resData?.data?.cards[2].card.card.info.name);
