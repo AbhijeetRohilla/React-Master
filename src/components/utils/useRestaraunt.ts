@@ -7,6 +7,7 @@ const useRestaraunt=(restId)=>{
     
     useEffect(()=>{
         fetchData();
+        
       },[])
       const fetchData=async()=>{
         const data= await fetch(RESTRAUNT_API+restId);

@@ -1,27 +1,31 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useMemo, useState } from "react";
 import { REAL_FOOD_API } from "../utils/common";
-import RestCard from "./restrauntCard";
+import RestCard,{higherOrderComponent} from "./restrauntCard";
 import RestShimmer from "./restrauntShimmer";
 import { Link } from "react-router-dom";
 
 const Body=()=>{
     const [resData, setResData] = useState([]);
   const [searchData, setSearchData] = useState("");
+  const BestRatedRest=higherOrderComponent(RestCard);
  
 
 
   useEffect(() => {
-    fetchData();
-  }, []);
+    memo;
+  },[]);
 
-  const fetchData = async () => {
+  const memo= useMemo(async () => {
     const apiData = await fetch(REAL_FOOD_API);
+    
     const dataJson = await apiData.json();
     const pureData =
       dataJson?.data?.cards[4]?.card.card.gridElements.infoWithStyle
         .restaurants;
+
     setResData(pureData);
-  };
+  },[])
+  
 
   const handleSort = () => {
     const filteredData = resData.filter((res) => res?.info?.avgRating > 4);
@@ -32,7 +36,7 @@ const Body=()=>{
     const val = resData.map((res) => {
       return res?.info?.name.includes(searchData);
     });
-    console.log(val);
+    
   };
 
     return(
@@ -57,7 +61,20 @@ const Body=()=>{
           <div className="restCard">
             {resData.map((item) => {
                 //@ts-ignore
-              return <Link to ={"restraunt/"+item?.info?.id}><RestCard key={item?.info?.id} resData={item} /> </Link>;
+              return <Link to ={"restraunt/"+item?.info?.id}>
+                {item?.info?.avgRating>=4.4 ? 
+                 <BestRatedRest  resData={item}/>
+                 :
+                 item?.info?.avgRating<4?
+                 <>
+                 <label className="absolute m-2 p-2 bg-red-700 text-white rounded-md">Below Average restraunt</label>
+                 <RestCard resData={item} />
+                 </>
+                 :
+                 <RestCard  resData={item} />
+                }
+                 
+                </Link>;
             })}
           </div>
           </>

@@ -1,6 +1,6 @@
 import React from 'react';
 import { IMG_URL } from '../utils/common';
- const RestCard=({resData})=>{
+ const RestCard=({resData}:any)=>{
     const cuisine=resData?.info.cuisines.join(', ')
     
     
@@ -20,5 +20,17 @@ import { IMG_URL } from '../utils/common';
 
         </div>
     )
+}
+
+//HOC 
+export const higherOrderComponent=(RestCard)=>{
+    return(resData)=>{
+        return(
+            <>
+            <label className="absolute m-2 p-2 bg-black text-white rounded-md">Top rated Restaraunt</label>
+            <RestCard {...resData}/>
+            </>
+        )
+    }
 }
 export default RestCard;
